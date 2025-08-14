@@ -1,0 +1,897 @@
+﻿Loc,PN,B,Rep.,Code,Treatment,Yield (kg),Yield (kg/ha)
+Aranjuez,1,1,1,Achille,Irrigated,1.24,1378
+Aranjuez,2,1,1,Amancio,Irrigated,1.67,1856
+Aranjuez,3,1,1,Antalis,Irrigated,2.26,2511
+Aranjuez,4,1,1,Anvergur,Irrigated,0.84,933
+Aranjuez,5,1,1,Asif,Irrigated,NA,NA
+Aranjuez,6,1,1,Athorix,Irrigated,2.22,2467
+Aranjuez,7,1,1,Aventadur,Irrigated,2.96,3289
+Aranjuez,8,1,1,Calero,Irrigated,2.72,3022
+Aranjuez,9,1,1,Canaillou (17215),Irrigated,2.5,2778
+Aranjuez,10,1,1,Casteldoux,Irrigated,2.66,2956
+Aranjuez,11,1,1,LG Davis,Irrigated,2.46,2733
+Aranjuez,12,1,1,Don Norman,Irrigated,1.74,1933
+Aranjuez,13,1,1,Egeo,Irrigated,2.66,2956
+Aranjuez,14,1,1,Eliav,Irrigated,NA,NA
+Aranjuez,15,1,1,Emilio Lepido,Irrigated,3.3,3667
+Aranjuez,16,1,1,Fdn 15 Dw 872,Irrigated,3.38,3756
+Aranjuez,17,1,1,Don Ricardo,Irrigated,2.8,3111
+Aranjuez,18,1,1,Fuego,Irrigated,3.38,3756
+Aranjuez,47,2,1,Don Ferran,Irrigated,4.44,4933
+Aranjuez,20,1,1,Gvati,Irrigated,2.92,3244
+Aranjuez,21,1,1,Hard_Amber,Irrigated,3.32,3689
+Aranjuez,22,1,1,LG Hipnosis,Irrigated,3.2,3556
+Aranjuez,23,1,1,Leondur,Irrigated,NA,NA
+Aranjuez,24,1,1,Massimo Meridio,Irrigated,3.56,3956
+Aranjuez,25,1,1,Monastir,Irrigated,4.88,5422
+Aranjuez,26,1,1,Nilo,Irrigated,4.23,4700
+Aranjuez,27,1,1,Nobilis,Irrigated,3.66,4067
+Aranjuez,28,1,1,Odisseo,Irrigated,4.1,4556
+Aranjuez,29,1,1,Don Sebastian,Irrigated,3.03,3367
+Aranjuez,30,1,1,Ottaviano,Irrigated,4.26,4733
+Aranjuez,31,1,1,Ovidio,Irrigated,3.2,3556
+Aranjuez,32,1,1,Semidou,Irrigated,3.46,3844
+Aranjuez,33,2,1,Trimulato,Irrigated,2.91,3233
+Aranjuez,34,2,1,RAGT Voilur,Irrigated,4.28,4756
+Aranjuez,35,2,1,Wintergold,Irrigated,3,3333
+Aranjuez,36,2,1,LG Ysatis,Irrigated,3.85,4278
+Aranjuez,37,2,1,Avispa,Irrigated,4.2,4667
+Aranjuez,38,2,1,Aneto,Irrigated,4.62,5133
+Aranjuez,39,2,1,Teodorico,Irrigated,4.38,4867
+Aranjuez,40,2,1,Duralis,Irrigated,5.24,5822
+Aranjuez,41,2,1,Makrodur,Irrigated,4.54,5044
+Aranjuez,42,2,1,Duramonte,Irrigated,3.82,4244
+Aranjuez,43,2,1,Don Cristobal,Irrigated,4.9,5444
+Aranjuez,44,2,1,Don Ortega,Irrigated,4.38,4867
+Aranjuez,45,2,1,Carpio,Irrigated,3.18,3533
+Aranjuez,113,4,2,Don Ferran,Irrigated,4.26,4733
+Aranjuez,187,6,3,Don Ferran,Irrigated,3.08,3422
+Aranjuez,48,2,1,LG Fructis,Irrigated,4.26,4733
+Aranjuez,49,2,1,LG Indianapolis,Irrigated,3.88,4311
+Aranjuez,50,2,1,LG Avensis,Irrigated,4.9,5444
+Aranjuez,51,2,1,RGT Esplendor,Irrigated,3.92,4356
+Aranjuez,52,2,1,LG Confianza,Irrigated,3.62,4022
+Aranjuez,53,2,1,LG Origen,Irrigated,4.14,4600
+Aranjuez,54,2,1,LGDE15-1151-B ( LG Quovadis),Irrigated,4.52,5022
+Aranjuez,55,2,1,LG Anubis,Irrigated,3.54,3933
+Aranjuez,56,2,1,Omnis,Irrigated,3.58,3978
+Aranjuez,57,2,1,Aceres,Irrigated,3.74,4156
+Aranjuez,58,2,1,Coriolis,Irrigated,3.82,4244
+Aranjuez,59,2,1,RGT Reinur,Irrigated,2.88,3200
+Aranjuez,60,2,1,RGT Beticur,Irrigated,3.56,3956
+Aranjuez,61,2,1,RGT Fernandur,Irrigated,3.15,3500
+Aranjuez,62,2,1,RGT Tacodur,Irrigated,2.5,2778
+Aranjuez,63,2,1,RGT Rumbadur,Irrigated,3.7,4111
+Aranjuez,64,2,1,RGT Partitur,Irrigated,4.12,4578
+Aranjuez,65,3,2,Aventadur,Irrigated,3.23,3589
+Aranjuez,66,3,2,LG Confianza,Irrigated,3.82,4244
+Aranjuez,67,3,2,Wintergold,Irrigated,3.13,3478
+Aranjuez,68,3,2,Teodorico,Irrigated,2.39,2656
+Aranjuez,69,3,2,Avispa,Irrigated,3.46,3844
+Aranjuez,70,3,2,LG Anubis,Irrigated,2.76,3067
+Aranjuez,71,3,2,Athorix,Irrigated,3.92,4356
+Aranjuez,72,3,2,Asif,Irrigated,NA,NA
+Aranjuez,73,3,2,Trimulato,Irrigated,3.64,4044
+Aranjuez,47,2,1,Don Ferran,Rainfed,2.86,3178
+Aranjuez,75,3,2,Antalis,Irrigated,4.3,4778
+Aranjuez,76,3,2,Don Sebastian,Irrigated,2.84,3156
+Aranjuez,77,3,2,Casteldoux,Irrigated,3.66,4067
+Aranjuez,78,3,2,Don Ortega,Irrigated,4.1,4556
+Aranjuez,79,3,2,RGT Tacodur,Irrigated,4.68,5200
+Aranjuez,93,3,2,Don Ferran,Rainfed,2.14,2378
+Aranjuez,81,3,2,Don Cristobal,Irrigated,6.1,6778
+Aranjuez,82,3,2,RGT Fernandur,Irrigated,5.43,6033
+Aranjuez,83,3,2,Aneto,Irrigated,7.24,8044
+Aranjuez,84,3,2,Hard_Amber,Irrigated,4.42,4911
+Aranjuez,85,3,2,Omnis,Irrigated,6.26,6956
+Aranjuez,86,3,2,Achille,Irrigated,5.72,6356
+Aranjuez,87,3,2,Fdn 15 Dw 872,Irrigated,6.82,7578
+Aranjuez,88,3,2,Fuego,Irrigated,5.74,6378
+Aranjuez,89,3,2,Don Ricardo,Irrigated,4.84,5378
+Aranjuez,90,3,2,RGT Rumbadur,Irrigated,5.54,6156
+Aranjuez,91,3,2,Gvati,Irrigated,3.28,3644
+Aranjuez,92,3,2,Makrodur,Irrigated,3.58,3978
+Aranjuez,93,3,2,LG Fructis,Irrigated,3.53,3922
+Aranjuez,94,3,2,Nilo,Irrigated,5.2,5778
+Aranjuez,95,3,2,RGT Partitur,Irrigated,4.91,5456
+Aranjuez,96,3,2,RGT Esplendor,Irrigated,4.05,4500
+Aranjuez,97,4,2,Egeo,Irrigated,3.49,3878
+Aranjuez,98,4,2,Aceres,Irrigated,3.96,4400
+Aranjuez,99,4,2,Leondur,Irrigated,3.14,3489
+Aranjuez,100,4,2,RAGT Voilur,Irrigated,4.55,5056
+Aranjuez,101,4,2,LG Hipnosis,Irrigated,4.3,4778
+Aranjuez,102,4,2,Ovidio,Irrigated,3.62,4022
+Aranjuez,103,4,2,Amancio,Irrigated,4.1,4556
+Aranjuez,104,4,2,Massimo Meridio,Irrigated,4.44,4933
+Aranjuez,105,4,2,Coriolis,Irrigated,4.56,5067
+Aranjuez,106,4,2,Canaillou (17215),Irrigated,5.46,6067
+Aranjuez,107,4,2,Don Norman,Irrigated,3.8,4222
+Aranjuez,108,4,2,Emilio Lepido,Irrigated,4.52,5022
+Aranjuez,109,4,2,Anvergur,Irrigated,4.6,5111
+Aranjuez,110,4,2,Calero,Irrigated,5.32,5911
+Aranjuez,111,4,2,RGT Reinur,Irrigated,5.32,5911
+Aranjuez,112,4,2,Carpio,Irrigated,4.18,4644
+Aranjuez,139,5,3,Don Ferran,Rainfed,1.96,2178
+Aranjuez,114,4,2,Duramonte,Irrigated,4.08,4533
+Aranjuez,115,4,2,LG Ysatis,Irrigated,4.44,4933
+Aranjuez,116,4,2,LG Origen,Irrigated,4.49,4989
+Aranjuez,117,4,2,Odisseo,Irrigated,4.2,4667
+Aranjuez,118,4,2,Semidou,Irrigated,4.34,4822
+Aranjuez,119,4,2,LG Davis,Irrigated,4.64,5156
+Aranjuez,120,4,2,LG Indianapolis,Irrigated,3.56,3956
+Aranjuez,121,4,2,Nobilis,Irrigated,3.32,3689
+Aranjuez,122,4,2,Ottaviano,Irrigated,4.32,4800
+Aranjuez,123,4,2,RGT Beticur,Irrigated,4.4,4889
+Aranjuez,124,4,2,Duralis,Irrigated,4.022,4469
+Aranjuez,125,4,2,LG Avensis,Irrigated,4.85,5389
+Aranjuez,126,4,2,Monastir,Irrigated,4.08,4533
+Aranjuez,127,4,2,LGDE15-1151-B ( LG Quovadis),Irrigated,4.5,5000
+Aranjuez,128,4,2,Eliav,Irrigated,NA,NA
+Aranjuez,129,5,3,Calero,Irrigated,4.74,5267
+Aranjuez,130,5,3,Teodorico,Irrigated,3.88,4311
+Aranjuez,131,5,3,LGDE15-1151-B ( LG Quovadis),Irrigated,5.19,5767
+Aranjuez,132,5,3,Athorix,Irrigated,5.21,5789
+Aranjuez,133,5,3,RGT Fernandur,Irrigated,4.92,5467
+Aranjuez,134,5,3,Anvergur,Irrigated,4.1,4556
+Aranjuez,135,5,3,Duralis,Irrigated,4.86,5400
+Aranjuez,136,5,3,RGT Partitur,Irrigated,5.1,5667
+Aranjuez,137,5,3,RGT Tacodur,Irrigated,4.78,5311
+Aranjuez,138,5,3,Achille,Irrigated,5.42,6022
+Aranjuez,139,5,3,Canaillou (17215),Irrigated,5.92,6578
+Aranjuez,140,5,3,Amancio,Irrigated,4.44,4933
+Aranjuez,141,5,3,Aventadur,Irrigated,5.58,6200
+Aranjuez,142,5,3,Monastir,Irrigated,6.1,6778
+Aranjuez,143,5,3,LG Confianza,Irrigated,6.32,7022
+Valladolid,47,2,1,Don Ferran,Rainfed,4.58,5089
+Aranjuez,145,5,3,Don Cristobal,Irrigated,6.42,7133
+Aranjuez,146,5,3,LG Indianapolis,Irrigated,4.22,4689
+Aranjuez,147,5,3,RGT Beticur,Irrigated,6.48,7200
+Aranjuez,148,5,3,LG Avensis,Irrigated,5.44,6044
+Aranjuez,149,5,3,Makrodur,Irrigated,4.5,5000
+Aranjuez,150,5,3,Eliav,Irrigated,NA,NA
+Aranjuez,151,5,3,Asif,Irrigated,NA,NA
+Aranjuez,152,5,3,LG Ysatis,Irrigated,5.58,6200
+Aranjuez,153,5,3,Don Ortega,Irrigated,4.88,5422
+Aranjuez,154,5,3,Antalis,Irrigated,5.6,6222
+Aranjuez,155,5,3,Fuego,Irrigated,4.66,5178
+Aranjuez,156,5,3,Casteldoux,Irrigated,4.52,5022
+Aranjuez,157,5,3,LG Hipnosis,Irrigated,5.1,5667
+Aranjuez,158,5,3,RGT Reinur,Irrigated,4.79,5322
+Aranjuez,159,5,3,RGT Esplendor,Irrigated,4.9,5444
+Aranjuez,160,5,3,Odisseo,Irrigated,4.25,4722
+Aranjuez,161,6,3,Gvati,Irrigated,2.73,3033
+Aranjuez,162,6,3,LG Anubis,Irrigated,3.87,4300
+Aranjuez,163,6,3,Leondur,Irrigated,3.2,3556
+Aranjuez,164,6,3,Trimulato,Irrigated,3.01,3344
+Aranjuez,165,6,3,Nobilis,Irrigated,3.84,4267
+Aranjuez,166,6,3,Aceres,Irrigated,4.08,4533
+Aranjuez,167,6,3,Massimo Meridio,Irrigated,3.92,4356
+Aranjuez,168,6,3,Coriolis,Irrigated,4.84,5378
+Aranjuez,169,6,3,Emilio Lepido,Irrigated,4.64,5156
+Aranjuez,170,6,3,LG Fructis,Irrigated,4.58,5089
+Aranjuez,171,6,3,RGT Rumbadur,Irrigated,5.76,6400
+Aranjuez,172,6,3,Semidou,Irrigated,4.99,5544
+Aranjuez,173,6,3,LG Davis,Irrigated,4.6,5111
+Aranjuez,174,6,3,Egeo,Irrigated,4.98,5533
+Aranjuez,175,6,3,Ottaviano,Irrigated,5.22,5800
+Aranjuez,176,6,3,Duramonte,Irrigated,4.68,5200
+Aranjuez,177,6,3,LG Origen,Irrigated,5.61,6233
+Aranjuez,178,6,3,Nilo,Irrigated,5.84,6489
+Valladolid,73,3,2,Don Ferran,Rainfed,4.6,5111
+Aranjuez,180,6,3,Don Sebastian,Irrigated,3.88,4311
+Aranjuez,181,6,3,Fdn 15 Dw 872,Irrigated,4.92,5467
+Aranjuez,182,6,3,Carpio,Irrigated,3.14,3489
+Aranjuez,183,6,3,Ovidio,Irrigated,4.02,4467
+Aranjuez,184,6,3,Avispa,Irrigated,5.18,5756
+Aranjuez,185,6,3,Don Norman,Irrigated,3.2,3556
+Aranjuez,186,6,3,Hard_Amber,Irrigated,4.08,4533
+Valladolid,164,6,3,Don Ferran,Rainfed,4.37,4856
+Aranjuez,188,6,3,RAGT Voilur,Irrigated,4.1,4556
+Aranjuez,189,6,3,Aneto,Irrigated,4.44,4933
+Aranjuez,190,6,3,Don Ricardo,Irrigated,2.82,3133
+Aranjuez,191,6,3,Omnis,Irrigated,2.87,3189
+Aranjuez,192,6,3,Wintergold,Irrigated,2.79,3100
+Aranjuez,1,1,1,Achille,Rainfed,0.62,689
+Aranjuez,2,1,1,Amancio,Rainfed,0.83,922
+Aranjuez,3,1,1,Antalis,Rainfed,0.14,156
+Aranjuez,4,1,1,Anvergur,Rainfed,0.77,856
+Aranjuez,5,1,1,Asif,Rainfed,0.57,633
+Aranjuez,6,1,1,Athorix,Rainfed,0.74,822
+Aranjuez,7,1,1,Aventadur,Rainfed,1.64,1822
+Aranjuez,8,1,1,Calero,Rainfed,1.42,1578
+Aranjuez,9,1,1,Canaillou (17215),Rainfed,1.44,1600
+Aranjuez,10,1,1,Casteldoux,Rainfed,1.07,1189
+Aranjuez,11,1,1,LG Davis,Rainfed,1.8,2000
+Aranjuez,12,1,1,Don Norman,Rainfed,0.4,444
+Aranjuez,13,1,1,Egeo,Rainfed,1.73,1922
+Aranjuez,14,1,1,Eliav,Rainfed,1.17,1300
+Aranjuez,15,1,1,Emilio Lepido,Rainfed,1.01,1122
+Aranjuez,16,1,1,Fdn 15 Dw 872,Rainfed,1.98,2200
+Aranjuez,17,1,1,Don Ricardo,Rainfed,1.88,2089
+Aranjuez,18,1,1,Fuego,Rainfed,1.65,1833
+Valladolid,251,8,4,Don Ferran,Rainfed,4.61,5122
+Aranjuez,20,1,1,Gvati,Rainfed,1.38,1533
+Aranjuez,21,1,1,Hard_Amber,Rainfed,2.04,2267
+Aranjuez,22,1,1,LG Hipnosis,Rainfed,2.57,2856
+Aranjuez,23,1,1,Leondur,Rainfed,2.56,2844
+Aranjuez,24,1,1,Massimo Meridio,Rainfed,2.02,2244
+Aranjuez,25,1,1,Monastir,Rainfed,3.1,3444
+Aranjuez,26,1,1,Nilo,Rainfed,2.53,2811
+Aranjuez,27,1,1,Nobilis,Rainfed,1.94,2156
+Aranjuez,28,1,1,Odisseo,Rainfed,2.33,2589
+Aranjuez,29,1,1,Don Sebastian,Rainfed,1.81,2011
+Aranjuez,30,1,1,Ottaviano,Rainfed,2.43,2700
+Aranjuez,31,1,1,Ovidio,Rainfed,1.93,2144
+Aranjuez,32,1,1,Semidou,Rainfed,2.12,2356
+Aranjuez,33,2,1,Trimulato,Rainfed,2.02,2244
+Aranjuez,34,2,1,RAGT Voilur,Rainfed,2.62,2911
+Aranjuez,35,2,1,Wintergold,Rainfed,1.95,2167
+Aranjuez,36,2,1,LG Ysatis,Rainfed,2.67,2967
+Aranjuez,37,2,1,Avispa,Rainfed,3.17,3522
+Aranjuez,38,2,1,Aneto,Rainfed,3.1,3444
+Aranjuez,39,2,1,Teodorico,Rainfed,2.45,2722
+Aranjuez,40,2,1,Duralis,Rainfed,2.5,2778
+Aranjuez,41,2,1,Makrodur,Rainfed,0.98,1089
+Aranjuez,42,2,1,Duramonte,Rainfed,1.87,2078
+Aranjuez,43,2,1,Don Cristobal,Rainfed,2.61,2900
+Aranjuez,44,2,1,Don Ortega,Rainfed,2.46,2733
+Aranjuez,45,2,1,Carpio,Rainfed,2.2,2444
+Valladolid,47,2,1,Don Ferran,Irrigated,4.735,5261
+Valladolid,120,4,2,Don Ferran,Irrigated,5.84,6489
+Aranjuez,48,2,1,LG Fructis,Rainfed,2.88,3200
+Aranjuez,49,2,1,LG Indianapolis,Rainfed,2.01,2233
+Aranjuez,50,2,1,LG Avensis,Rainfed,1.97,2189
+Aranjuez,51,2,1,RGT Esplendor,Rainfed,2.67,2967
+Aranjuez,52,2,1,LG Confianza,Rainfed,3.27,3633
+Aranjuez,53,2,1,LG Origen,Rainfed,2.23,2478
+Aranjuez,54,2,1,LGDE15-1151-B ( LG Quovadis),Rainfed,3.66,4067
+Aranjuez,55,2,1,LG Anubis,Rainfed,2.99,3322
+Aranjuez,56,2,1,Omnis,Rainfed,2.77,3078
+Aranjuez,57,2,1,Aceres,Rainfed,2.45,2722
+Aranjuez,58,2,1,Coriolis,Rainfed,2.47,2744
+Aranjuez,59,2,1,RGT Reinur,Rainfed,2.67,2967
+Aranjuez,60,2,1,RGT Beticur,Rainfed,1.75,1944
+Aranjuez,61,2,1,RGT Fernandur,Rainfed,1.88,2089
+Aranjuez,62,2,1,RGT Tacodur,Rainfed,2.03,2256
+Aranjuez,63,2,1,RGT Rumbadur,Rainfed,2.6,2889
+Aranjuez,64,2,1,RGT Partitur,Rainfed,2.11,2344
+Aranjuez,65,3,2,RGT Rumbadur,Rainfed,2.64,2933
+Aranjuez,66,3,2,Massimo Meridio,Rainfed,2.5,2778
+Aranjuez,67,3,2,Semidou,Rainfed,2.29,2544
+Aranjuez,68,3,2,Anvergur,Rainfed,1.83,2033
+Aranjuez,69,3,2,Carpio,Rainfed,1.91,2122
+Valladolid,164,6,3,Don Ferran,Irrigated,5.17,5744
+Aranjuez,71,3,2,RAGT Voilur,Rainfed,2.38,2644
+Aranjuez,72,3,2,Don Cristobal,Rainfed,2.96,3289
+Aranjuez,73,3,2,Avispa,Rainfed,3.03,3367
+Aranjuez,74,3,2,Coriolis,Rainfed,3.07,3411
+Aranjuez,75,3,2,Don Ricardo,Rainfed,2.86,3178
+Aranjuez,76,3,2,Gvati,Rainfed,1.19,1322
+Aranjuez,77,3,2,LG Avensis,Rainfed,2.06,2289
+Aranjuez,78,3,2,Ovidio,Rainfed,2.43,2700
+Aranjuez,79,3,2,Don Ortega,Rainfed,2.01,2233
+Aranjuez,80,3,2,Makrodur,Rainfed,0.66,733
+Aranjuez,81,3,2,LG Hipnosis,Rainfed,3.94,4378
+Aranjuez,82,3,2,LG Davis,Rainfed,3.13,3478
+Aranjuez,83,3,2,Omnis,Rainfed,2.28,2533
+Aranjuez,84,3,2,Trimulato,Rainfed,1.91,2122
+Aranjuez,85,3,2,Hard_Amber,Rainfed,2.12,2356
+Aranjuez,86,3,2,Fuego,Rainfed,2.41,2678
+Aranjuez,87,3,2,RGT Beticur,Rainfed,3.17,3522
+Aranjuez,88,3,2,Egeo,Rainfed,2.98,3311
+Aranjuez,89,3,2,Wintergold,Rainfed,1.68,1867
+Aranjuez,90,3,2,Fdn 15 Dw 872,Rainfed,2.57,2856
+Aranjuez,91,3,2,LG Indianapolis,Rainfed,2.06,2289
+Aranjuez,92,3,2,Athorix,Rainfed,2.61,2900
+Valladolid,255,8,4,Don Ferran,Irrigated,5.115,5683
+Aranjuez,94,3,2,Aventadur,Rainfed,3.09,3433
+Aranjuez,95,3,2,RGT Esplendor,Rainfed,3.18,3533
+Aranjuez,96,3,2,Leondur,Rainfed,2.42,2689
+Aranjuez,97,4,2,LGDE15-1151-B ( LG Quovadis),Rainfed,3,3333
+Aranjuez,98,4,2,Duramonte,Rainfed,1.23,1367
+Aranjuez,99,4,2,Ottaviano,Rainfed,2.23,2478
+Aranjuez,100,4,2,Antalis,Rainfed,3.05,3389
+Aranjuez,101,4,2,LG Origen,Rainfed,3.07,3411
+Aranjuez,102,4,2,Don Norman,Rainfed,2.49,2767
+Aranjuez,103,4,2,RGT Fernandur,Rainfed,2.64,2933
+Aranjuez,104,4,2,Eliav,Rainfed,2.52,2800
+Aranjuez,105,4,2,RGT Tacodur,Rainfed,2.94,3267
+Aranjuez,106,4,2,Achille,Rainfed,2.33,2589
+Aranjuez,107,4,2,Aceres,Rainfed,2.24,2489
+Aranjuez,108,4,2,Nilo,Rainfed,2.35,2611
+Aranjuez,109,4,2,RGT Reinur,Rainfed,2.71,3011
+Aranjuez,110,4,2,Casteldoux,Rainfed,1.84,2044
+Aranjuez,111,4,2,Don Sebastian,Rainfed,2.12,2356
+Aranjuez,112,4,2,Teodorico,Rainfed,2.35,2611
+Aranjuez,19,1,1,Don Maximo,Irrigated,3.78,4200
+Aranjuez,114,4,2,Emilio Lepido,Rainfed,1.51,1678
+Aranjuez,115,4,2,RGT Partitur,Rainfed,2.01,2233
+Aranjuez,116,4,2,LG Ysatis,Rainfed,2.19,2433
+Aranjuez,117,4,2,Aneto,Rainfed,2.88,3200
+Aranjuez,118,4,2,Calero,Rainfed,3.02,3356
+Aranjuez,119,4,2,Asif,Rainfed,1.81,2011
+Aranjuez,120,4,2,Odisseo,Rainfed,3.33,3700
+Aranjuez,121,4,2,LG Anubis,Rainfed,2.84,3156
+Aranjuez,122,4,2,Duralis,Rainfed,2.67,2967
+Aranjuez,123,4,2,Canaillou (17215),Rainfed,2.19,2433
+Aranjuez,124,4,2,LG Fructis,Rainfed,2.12,2356
+Aranjuez,125,4,2,Amancio,Rainfed,2.11,2344
+Aranjuez,126,4,2,LG Confianza,Rainfed,2.65,2944
+Aranjuez,127,4,2,Nobilis,Rainfed,1.63,1811
+Aranjuez,128,4,2,Monastir,Rainfed,2.48,2756
+Aranjuez,129,5,3,Don Sebastian,Rainfed,2.46,2733
+Aranjuez,130,5,3,Duramonte,Rainfed,0.68,756
+Aranjuez,131,5,3,Gvati,Rainfed,1.62,1800
+Aranjuez,132,5,3,Don Ortega,Rainfed,2.54,2822
+Aranjuez,133,5,3,Antalis,Rainfed,3.55,3944
+Aranjuez,134,5,3,RGT Partitur,Rainfed,2.33,2589
+Aranjuez,135,5,3,Casteldoux,Rainfed,2.14,2378
+Aranjuez,136,5,3,LG Indianapolis,Rainfed,2.46,2733
+Aranjuez,137,5,3,Monastir,Rainfed,3.58,3978
+Aranjuez,138,5,3,Fuego,Rainfed,2.46,2733
+Aranjuez,74,3,2,Don Maximo,Irrigated,3.94,4378
+Aranjuez,140,5,3,RGT Beticur,Rainfed,2.08,2311
+Aranjuez,144,5,3,Don Maximo,Irrigated,6.6,7333
+Aranjuez,142,5,3,Egeo,Rainfed,2.57,2856
+Aranjuez,143,5,3,LG Anubis,Rainfed,1.23,1367
+Aranjuez,144,5,3,Leondur,Rainfed,1.74,1933
+Aranjuez,145,5,3,Asif,Rainfed,1.4,1556
+Aranjuez,146,5,3,LG Fructis,Rainfed,1.2,1333
+Aranjuez,147,5,3,Don Norman,Rainfed,2.51,2789
+Aranjuez,148,5,3,Achille,Rainfed,2.23,2478
+Aranjuez,149,5,3,RGT Tacodur,Rainfed,2.64,2933
+Aranjuez,150,5,3,Anvergur,Rainfed,1.55,1722
+Aranjuez,151,5,3,Coriolis,Rainfed,2.99,3322
+Aranjuez,152,5,3,LG Avensis,Rainfed,2.68,2978
+Aranjuez,153,5,3,RGT Reinur,Rainfed,2.77,3078
+Aranjuez,154,5,3,Fdn 15 Dw 872,Rainfed,2.83,3144
+Aranjuez,155,5,3,Omnis,Rainfed,2.21,2456
+Aranjuez,156,5,3,Amancio,Rainfed,1.85,2056
+Aranjuez,157,5,3,Makrodur,Rainfed,1.1,1222
+Aranjuez,158,5,3,LG Hipnosis,Rainfed,2.3,2556
+Aranjuez,159,5,3,Nobilis,Rainfed,1.86,2067
+Aranjuez,160,5,3,Don Ricardo,Rainfed,2.36,2622
+Aranjuez,161,6,3,Emilio Lepido,Rainfed,2.63,2922
+Aranjuez,162,6,3,Avispa,Rainfed,2.93,3256
+Aranjuez,163,6,3,Massimo Meridio,Rainfed,1.94,2156
+Aranjuez,164,6,3,Carpio,Rainfed,2.15,2389
+Aranjuez,165,6,3,RAGT Voilur,Rainfed,2.91,3233
+Aranjuez,166,6,3,Odisseo,Rainfed,2.75,3056
+Aranjuez,167,6,3,Teodorico,Rainfed,2.71,3011
+Aranjuez,168,6,3,Semidou,Rainfed,2.93,3256
+Aranjuez,169,6,3,Don Cristobal,Rainfed,2.6,2889
+Aranjuez,170,6,3,Nilo,Rainfed,2.86,3178
+Aranjuez,171,6,3,LG Confianza,Rainfed,3.36,3733
+Aranjuez,172,6,3,Duralis,Rainfed,1.96,2178
+Aranjuez,173,6,3,RGT Fernandur,Rainfed,1.68,1867
+Aranjuez,174,6,3,Aventadur,Rainfed,2.62,2911
+Aranjuez,175,6,3,LGDE15-1151-B ( LG Quovadis),Rainfed,2.91,3233
+Aranjuez,176,6,3,Canaillou (17215),Rainfed,3.18,3533
+Aranjuez,177,6,3,Wintergold,Rainfed,0.6,667
+Aranjuez,178,6,3,Ottaviano,Rainfed,1.24,1378
+Aranjuez,179,6,3,Hard_Amber,Rainfed,1.36,1511
+Aranjuez,180,6,3,RGT Rumbadur,Rainfed,1.73,1922
+Aranjuez,181,6,3,LG Davis,Rainfed,1.84,2044
+Aranjuez,182,6,3,Aceres,Rainfed,3.17,3522
+Aranjuez,183,6,3,LG Origen,Rainfed,3.49,3878
+Aranjuez,184,6,3,Trimulato,Rainfed,2.71,3011
+Aranjuez,185,6,3,RGT Esplendor,Rainfed,3.23,3589
+Aranjuez,186,6,3,LG Ysatis,Rainfed,3.3,3667
+Aranjuez,187,6,3,Calero,Rainfed,2.78,3089
+Aranjuez,19,1,1,Don Maximo,Rainfed,2.5,2778
+Aranjuez,189,6,3,Ovidio,Rainfed,3.13,3478
+Aranjuez,190,6,3,Athorix,Rainfed,2.9,3222
+Aranjuez,191,6,3,Eliav,Rainfed,2.93,3256
+Aranjuez,192,6,3,Aneto,Rainfed,2.45,2722
+Valladolid,1,1,1,Achille,Rainfed,4.71,5233
+Valladolid,2,1,1,Amancio,Rainfed,5.3,5889
+Valladolid,3,1,1,Antalis,Rainfed,4.6,5111
+Valladolid,4,1,1,Anvergur,Rainfed,5.05,5611
+Valladolid,5,1,1,Asif,Rainfed,4.13,4589
+Valladolid,6,1,1,Athorix,Rainfed,5.87,6522
+Valladolid,7,1,1,Aventadur,Rainfed,4.79,5322
+Valladolid,8,1,1,Calero,Rainfed,5.15,5722
+Valladolid,9,1,1,Canaillou (17215),Rainfed,5.6,6222
+Valladolid,10,1,1,Casteldoux,Rainfed,5.3,5889
+Valladolid,11,1,1,LG Davis,Rainfed,5.53,6144
+Valladolid,12,1,1,Don Norman,Rainfed,4.17,4633
+Valladolid,13,1,1,Egeo,Rainfed,5,5556
+Valladolid,14,1,1,Eliav,Rainfed,4.3,4778
+Valladolid,15,1,1,Emilio Lepido,Rainfed,4.9,5444
+Valladolid,16,1,1,Fdn 15 Dw 872,Rainfed,5.7,6333
+Valladolid,17,1,1,Don Ricardo,Rainfed,4.6,5111
+Valladolid,18,1,1,Fuego,Rainfed,5.3,5889
+Aranjuez,70,3,2,Don Maximo,Rainfed,2.52,2800
+Valladolid,20,1,1,Gvati,Rainfed,5,5556
+Valladolid,21,1,1,Hard_Amber,Rainfed,5.1,5667
+Valladolid,22,1,1,LG Hipnosis,Rainfed,5.6,6222
+Valladolid,23,1,1,Leondur,Rainfed,3.9,4333
+Valladolid,24,1,1,Massimo Meridio,Rainfed,4.5,5000
+Valladolid,25,1,1,Monastir,Rainfed,4.8,5333
+Valladolid,26,1,1,Nilo,Rainfed,4.9,5444
+Valladolid,27,1,1,Nobilis,Rainfed,3.2,3556
+Valladolid,28,1,1,Odisseo,Rainfed,4.4,4889
+Valladolid,29,1,1,Don Sebastian,Rainfed,3.2,3556
+Valladolid,30,1,1,Ottaviano,Rainfed,4.6,5111
+Valladolid,31,1,1,Ovidio,Rainfed,4.5,5000
+Valladolid,32,1,1,Semidou,Rainfed,5.5,6111
+Valladolid,33,2,1,Trimulato,Rainfed,4.1,4556
+Valladolid,34,2,1,RAGT Voilur,Rainfed,4.6,5111
+Valladolid,35,2,1,Wintergold,Rainfed,4.05,4500
+Valladolid,36,2,1,LG Ysatis,Rainfed,4.63,5144
+Valladolid,37,2,1,Avispa,Rainfed,5.05,5611
+Valladolid,38,2,1,Aneto,Rainfed,5.49,6100
+Valladolid,39,2,1,Teodorico,Rainfed,5.17,5744
+Valladolid,40,2,1,Duralis,Rainfed,5.27,5856
+Valladolid,41,2,1,Makrodur,Rainfed,4.3,4778
+Valladolid,42,2,1,Duramonte,Rainfed,4.7,5222
+Valladolid,43,2,1,Don Cristobal,Rainfed,5.14,5711
+Valladolid,44,2,1,Don Ortega,Rainfed,3.6,4000
+Valladolid,45,2,1,Carpio,Rainfed,1.507,1674
+Aranjuez,141,5,3,Don Maximo,Rainfed,1.49,1656
+Valladolid,19,1,1,Don Maximo,Rainfed,5.8,6444
+Valladolid,48,2,1,LG Fructis,Rainfed,4.74,5267
+Valladolid,49,2,1,LG Indianapolis,Rainfed,4.2,4667
+Valladolid,50,2,1,LG Avensis,Rainfed,5.26,5844
+Valladolid,51,2,1,RGT Esplendor,Rainfed,4.81,5344
+Valladolid,52,2,1,LG Confianza,Rainfed,4.87,5411
+Valladolid,53,2,1,LG Origen,Rainfed,5.28,5867
+Valladolid,54,2,1,LGDE15-1151-B ( LG Quovadis),Rainfed,4.39,4878
+Valladolid,55,2,1,LG Anubis,Rainfed,5.26,5844
+Valladolid,56,2,1,Omnis,Rainfed,5,5556
+Valladolid,57,2,1,Aceres,Rainfed,4.45,4944
+Valladolid,58,2,1,Coriolis,Rainfed,5,5556
+Valladolid,59,2,1,RGT Reinur,Rainfed,5.03,5589
+Valladolid,60,2,1,RGT Beticur,Rainfed,4.65,5167
+Valladolid,61,2,1,RGT Fernandur,Rainfed,4.88,5422
+Valladolid,62,2,1,RGT Tacodur,Rainfed,4.11,4567
+Valladolid,63,2,1,RGT Rumbadur,Rainfed,4.76,5289
+Valladolid,64,2,1,RGT Partitur,Rainfed,4.99,5544
+Valladolid,65,3,2,Trimulato,Rainfed,4.51,5011
+Valladolid,66,3,2,LG Hipnosis,Rainfed,5.29,5878
+Valladolid,67,3,2,Don Ortega,Rainfed,3.91,4344
+Valladolid,68,3,2,Eliav,Rainfed,4.67,5189
+Valladolid,69,3,2,Avispa,Rainfed,5.25,5833
+Valladolid,70,3,2,Don Maximo,Rainfed,5.3,5889
+Valladolid,71,3,2,LG Indianapolis,Rainfed,3.79,4211
+Valladolid,72,3,2,Massimo Meridio,Rainfed,4.77,5300
+Valladolid,182,6,3,Don Maximo,Rainfed,4.1,4556
+Valladolid,74,3,2,Aventadur,Rainfed,4.6,5111
+Valladolid,75,3,2,RAGT Voilur,Rainfed,5.5,6111
+Valladolid,76,3,2,Fuego,Rainfed,5.3,5889
+Valladolid,77,3,2,Don Cristobal,Rainfed,5.56,6178
+Valladolid,78,3,2,Don Sebastian,Rainfed,4.53,5033
+Valladolid,79,3,2,Antalis,Rainfed,5.5,6111
+Valladolid,80,3,2,RGT Partitur,Rainfed,6.5,7222
+Valladolid,81,3,2,Anvergur,Rainfed,5.4,6000
+Valladolid,82,3,2,Aneto,Rainfed,6.5,7222
+Valladolid,83,3,2,Coriolis,Rainfed,5.84,6489
+Valladolid,84,3,2,Achille,Rainfed,5.3,5889
+Valladolid,85,3,2,RGT Fernandur,Rainfed,5.55,6167
+Valladolid,86,3,2,Calero,Rainfed,4.98,5533
+Valladolid,87,3,2,Ottaviano,Rainfed,4.4,4889
+Valladolid,88,3,2,RGT Beticur,Rainfed,5.2,5778
+Valladolid,89,3,2,RGT Rumbadur,Rainfed,5.7,6333
+Valladolid,90,3,2,Athorix,Rainfed,5.3,5889
+Valladolid,91,3,2,LG Fructis,Rainfed,5.13,5700
+Valladolid,92,3,2,Don Norman,Rainfed,4.18,4644
+Valladolid,93,3,2,Makrodur,Rainfed,4.89,5433
+Valladolid,94,3,2,Asif,Rainfed,3.62,4022
+Valladolid,95,3,2,Casteldoux,Rainfed,4.9,5444
+Valladolid,230,8,4,Don Maximo,Rainfed,5.93,6589
+Valladolid,97,4,2,LGDE15-1151-B ( LG Quovadis),Rainfed,3.8,4222
+Valladolid,98,4,2,RGT Esplendor,Rainfed,3.9,4333
+Valladolid,99,4,2,Egeo,Rainfed,4.4,4889
+Valladolid,100,4,2,LG Origen,Rainfed,4.4,4889
+Valladolid,101,4,2,Canaillou (17215),Rainfed,5.37,5967
+Valladolid,102,4,2,Duramonte,Rainfed,4.49,4989
+Valladolid,103,4,2,LG Anubis,Rainfed,5.16,5733
+Valladolid,104,4,2,Leondur,Rainfed,4.14,4600
+Valladolid,105,4,2,Teodorico,Rainfed,5.26,5844
+Valladolid,106,4,2,Semidou,Rainfed,5.1,5667
+Valladolid,107,4,2,Fdn 15 Dw 872,Rainfed,5.04,5600
+Valladolid,108,4,2,Wintergold,Rainfed,4.34,4822
+Valladolid,109,4,2,LG Confianza,Rainfed,5,5556
+Valladolid,110,4,2,Emilio Lepido,Rainfed,4.96,5511
+Valladolid,111,4,2,Nobilis,Rainfed,5.2,5778
+Valladolid,112,4,2,RGT Tacodur,Rainfed,4.4,4889
+Valladolid,113,4,2,Hard_Amber,Rainfed,4.7,5222
+Valladolid,114,4,2,Carpio,Rainfed,4.28,4756
+Valladolid,115,4,2,Gvati,Rainfed,5.1,5667
+Valladolid,116,4,2,RGT Reinur,Rainfed,5.3,5889
+Valladolid,117,4,2,Amancio,Rainfed,5.6,6222
+Valladolid,118,4,2,Aceres,Rainfed,4.9,5444
+Valladolid,119,4,2,Monastir,Rainfed,4.77,5300
+Valladolid,120,4,2,LG Ysatis,Rainfed,4.42,4911
+Valladolid,121,4,2,LG Davis,Rainfed,4.13,4589
+Valladolid,122,4,2,Duralis,Rainfed,4.84,5378
+Valladolid,123,4,2,Ovidio,Rainfed,4.5,5000
+Valladolid,124,4,2,LG Avensis,Rainfed,5.32,5911
+Valladolid,125,4,2,Nilo,Rainfed,4.74,5267
+Valladolid,126,4,2,Odisseo,Rainfed,4.95,5500
+Valladolid,127,4,2,Omnis,Rainfed,4.6,5111
+Valladolid,128,4,2,Don Ricardo,Rainfed,4,4444
+Valladolid,129,5,3,Don Norman,Rainfed,3.17,3522
+Valladolid,130,5,3,Carpio,Rainfed,3.1,3444
+Valladolid,131,5,3,Hard_Amber,Rainfed,4.5,5000
+Valladolid,132,5,3,Don Cristobal,Rainfed,4.3,4778
+Valladolid,133,5,3,RAGT Voilur,Rainfed,5.23,5811
+Valladolid,134,5,3,RGT Esplendor,Rainfed,4.44,4933
+Valladolid,135,5,3,Don Sebastian,Rainfed,3.62,4022
+Valladolid,136,5,3,LG Fructis,Rainfed,4.2,4667
+Valladolid,19,1,1,Don Maximo,Irrigated,5.36,5956
+Valladolid,138,5,3,Anvergur,Rainfed,4.78,5311
+Valladolid,139,5,3,Makrodur,Rainfed,4.54,5044
+Valladolid,140,5,3,RGT Rumbadur,Rainfed,5.36,5956
+Valladolid,141,5,3,Avispa,Rainfed,5.7,6333
+Valladolid,142,5,3,Nobilis,Rainfed,NA,NA
+Valladolid,143,5,3,Wintergold,Rainfed,4.63,5144
+Valladolid,144,5,3,Aneto,Rainfed,6.19,6878
+Valladolid,145,5,3,Amancio,Rainfed,5.7,6333
+Valladolid,146,5,3,RGT Reinur,Rainfed,5.39,5989
+Valladolid,147,5,3,Aventadur,Rainfed,4.6,5111
+Valladolid,148,5,3,LG Avensis,Rainfed,5.4,6000
+Valladolid,149,5,3,LG Origen,Rainfed,5.4,6000
+Valladolid,150,5,3,Monastir,Rainfed,4.8,5333
+Valladolid,151,5,3,LG Ysatis,Rainfed,4.84,5378
+Valladolid,152,5,3,Aceres,Rainfed,5.56,6178
+Valladolid,153,5,3,LG Davis,Rainfed,5.11,5678
+Valladolid,154,5,3,RGT Fernandur,Rainfed,5.41,6011
+Valladolid,155,5,3,Gvati,Rainfed,4.4,4889
+Valladolid,156,5,3,Don Ortega,Rainfed,3.4,3778
+Valladolid,157,5,3,Antalis,Rainfed,4.83,5367
+Valladolid,158,5,3,LG Confianza,Rainfed,4.5,5000
+Valladolid,159,5,3,Calero,Rainfed,4.57,5078
+Valladolid,160,5,3,Massimo Meridio,Rainfed,4.8,5333
+Valladolid,161,6,3,RGT Partitur,Rainfed,NA,NA
+Valladolid,162,6,3,Omnis,Rainfed,NA,NA
+Valladolid,163,6,3,LG Hipnosis,Rainfed,4.88,5422
+Valladolid,98,4,2,Don Maximo,Irrigated,5.745,6383
+Valladolid,165,6,3,RGT Beticur,Rainfed,5.2,5778
+Valladolid,166,6,3,Achille,Rainfed,5.5,6111
+Valladolid,167,6,3,Fdn 15 Dw 872,Rainfed,5.6,6222
+Valladolid,168,6,3,RGT Tacodur,Rainfed,5,5556
+Valladolid,169,6,3,Odisseo,Rainfed,5.9,6556
+Valladolid,170,6,3,LG Anubis,Rainfed,5.5,6111
+Valladolid,171,6,3,Athorix,Rainfed,6,6667
+Valladolid,172,6,3,LG Indianapolis,Rainfed,4.7,5222
+Valladolid,173,6,3,Egeo,Rainfed,5.4,6000
+Valladolid,174,6,3,Nilo,Rainfed,5.6,6222
+Valladolid,175,6,3,Casteldoux,Rainfed,4.38,4867
+Valladolid,176,6,3,Eliav,Rainfed,4.7,5222
+Valladolid,177,6,3,Coriolis,Rainfed,5.2,5778
+Valladolid,178,6,3,Ottaviano,Rainfed,5.3,5889
+Valladolid,179,6,3,Ovidio,Rainfed,4.8,5333
+Valladolid,180,6,3,Asif,Rainfed,4.04,4489
+Valladolid,181,6,3,Trimulato,Rainfed,4.57,5078
+Valladolid,190,6,3,Don Maximo,Irrigated,6.73,7478
+Valladolid,183,6,3,Duralis,Rainfed,5.42,6022
+Valladolid,184,6,3,Don Ricardo,Rainfed,4.4,4889
+Valladolid,185,6,3,Leondur,Rainfed,4.4,4889
+Valladolid,186,6,3,Duramonte,Rainfed,4.8,5333
+Valladolid,187,6,3,Emilio Lepido,Rainfed,4.26,4733
+Valladolid,188,6,3,Fuego,Rainfed,4.9,5444
+Valladolid,189,6,3,LGDE15-1151-B ( LG Quovadis),Rainfed,3.8,4222
+Valladolid,190,6,3,Canaillou (17215),Rainfed,4.8,5333
+Valladolid,191,6,3,Semidou,Rainfed,4.64,5156
+Valladolid,192,6,3,Teodorico,Rainfed,4.6,5111
+Valladolid,193,7,4,Gvati,Rainfed,4.59,5100
+Valladolid,194,7,4,LG Anubis,Rainfed,4.9,5444
+Valladolid,244,8,4,Don Maximo,Irrigated,6.59,7322
+Valladolid,196,7,4,Monastir,Rainfed,4.7,5222
+Valladolid,197,7,4,LG Origen,Rainfed,5.5,6111
+Valladolid,198,7,4,Ottaviano,Rainfed,5.27,5856
+Valladolid,199,7,4,Aneto,Rainfed,5.7,6333
+Valladolid,200,7,4,Wintergold,Rainfed,4.63,5144
+Valladolid,201,7,4,RGT Fernandur,Rainfed,5.22,5800
+Valladolid,202,7,4,LG Fructis,Rainfed,4.48,4978
+Valladolid,203,7,4,Leondur,Rainfed,3.54,3933
+Valladolid,204,7,4,RGT Tacodur,Rainfed,4.47,4967
+Valladolid,205,7,4,Calero,Rainfed,4.96,5511
+Valladolid,206,7,4,RGT Beticur,Rainfed,4.8,5333
+Valladolid,207,7,4,Athorix,Rainfed,5.05,5611
+Valladolid,208,7,4,Teodorico,Rainfed,4.9,5444
+Valladolid,209,7,4,RGT Rumbadur,Rainfed,5.2,5778
+Valladolid,210,7,4,Avispa,Rainfed,4.98,5533
+Valladolid,211,7,4,RGT Esplendor,Rainfed,5,5556
+Valladolid,212,7,4,Duralis,Rainfed,5.6,6222
+Valladolid,213,7,4,LG Davis,Rainfed,5.27,5856
+Valladolid,214,7,4,Omnis,Rainfed,5.37,5967
+Valladolid,215,7,4,Don Sebastian,Rainfed,4.48,4978
+Valladolid,216,7,4,RGT Partitur,Rainfed,6,6667
+Valladolid,217,7,4,Anvergur,Rainfed,5.47,6078
+Valladolid,218,7,4,LG Avensis,Rainfed,5.69,6322
+Valladolid,219,7,4,RGT Reinur,Rainfed,5.27,5856
+Valladolid,220,7,4,Fuego,Rainfed,4.96,5511
+Valladolid,221,7,4,Aceres,Rainfed,4.76,5289
+Valladolid,222,7,4,Emilio Lepido,Rainfed,5,5556
+Valladolid,223,7,4,LG Indianapolis,Rainfed,4,4444
+Valladolid,224,7,4,Hard_Amber,Rainfed,4.9,5444
+Valladolid,225,8,4,Coriolis,Rainfed,5.2,5778
+Valladolid,226,8,4,Don Ricardo,Rainfed,5.88,6533
+Valladolid,227,8,4,Amancio,Rainfed,5.84,6489
+Valladolid,228,8,4,Carpio,Rainfed,4.53,5033
+Valladolid,229,8,4,Eliav,Rainfed,4.9,5444
+Aranjuez,46,2,1,Don Valentin,Irrigated,4.84,5378
+Valladolid,231,8,4,Aventadur,Rainfed,4.81,5344
+Valladolid,232,8,4,Don Cristobal,Rainfed,5.18,5756
+Valladolid,233,8,4,RAGT Voilur,Rainfed,5.37,5967
+Valladolid,234,8,4,Ovidio,Rainfed,5.29,5878
+Valladolid,235,8,4,Asif,Rainfed,4.43,4922
+Valladolid,236,8,4,LGDE15-1151-B ( LG Quovadis),Rainfed,5.01,5567
+Valladolid,237,8,4,Trimulato,Rainfed,5.3,5889
+Valladolid,238,8,4,Canaillou (17215),Rainfed,6.1,6778
+Valladolid,239,8,4,Antalis,Rainfed,6.1,6778
+Valladolid,240,8,4,Don Norman,Rainfed,4.5,5000
+Valladolid,241,8,4,Duramonte,Rainfed,5.8,6444
+Valladolid,242,8,4,Nilo,Rainfed,5.83,6478
+Valladolid,243,8,4,Massimo Meridio,Rainfed,5.55,6167
+Valladolid,244,8,4,Semidou,Rainfed,5.18,5756
+Valladolid,245,8,4,LG Hipnosis,Rainfed,5.67,6300
+Valladolid,246,8,4,Don Ortega,Rainfed,4,4444
+Valladolid,247,8,4,Achille,Rainfed,5.9,6556
+Valladolid,248,8,4,Odisseo,Rainfed,5.33,5922
+Valladolid,249,8,4,Fdn 15 Dw 872,Rainfed,6.4,7111
+Valladolid,250,8,4,LG Confianza,Rainfed,5.2,5778
+Aranjuez,80,3,2,Don Valentin,Irrigated,5.34,5933
+Valladolid,252,8,4,Egeo,Rainfed,5.6,6222
+Valladolid,253,8,4,Makrodur,Rainfed,5.3,5889
+Valladolid,254,8,4,LG Ysatis,Rainfed,4.84,5378
+Valladolid,255,8,4,Casteldoux,Rainfed,5.4,6000
+Valladolid,256,8,4,Nobilis,Rainfed,5.78,6422
+Valladolid,1,1,1,Achille,Irrigated,6.435,7150
+Valladolid,2,1,1,Amancio,Irrigated,5.14,5711
+Valladolid,3,1,1,Antalis,Irrigated,5.5,6111
+Valladolid,4,1,1,Anvergur,Irrigated,6.275,6972
+Valladolid,5,1,1,Asif,Irrigated,4.6,5111
+Valladolid,6,1,1,Athorix,Irrigated,6,6667
+Valladolid,7,1,1,Aventadur,Irrigated,6.1,6778
+Valladolid,8,1,1,Calero,Irrigated,6.8,7556
+Valladolid,9,1,1,Canaillou (17215),Irrigated,7.39,8211
+Valladolid,10,1,1,Casteldoux,Irrigated,7.23,8033
+Valladolid,11,1,1,LG Davis,Irrigated,5.8,6444
+Valladolid,12,1,1,Don Norman,Irrigated,5.1,5667
+Valladolid,13,1,1,Egeo,Irrigated,5.56,6178
+Valladolid,14,1,1,Eliav,Irrigated,5.275,5861
+Valladolid,15,1,1,Emilio Lepido,Irrigated,5.31,5900
+Valladolid,16,1,1,Fdn 15 Dw 872,Irrigated,5.795,6439
+Valladolid,17,1,1,Don Ricardo,Irrigated,4.22,4689
+Valladolid,18,1,1,Fuego,Irrigated,5.48,6089
+Aranjuez,179,6,3,Don Valentin,Irrigated,4.78,5311
+Valladolid,20,1,1,Gvati,Irrigated,4.71,5233
+Valladolid,21,1,1,Hard_Amber,Irrigated,5.2,5778
+Valladolid,22,1,1,LG Hipnosis,Irrigated,5.69,6322
+Valladolid,23,1,1,Leondur,Irrigated,4.27,4744
+Valladolid,24,1,1,Massimo Meridio,Irrigated,5.66,6289
+Valladolid,25,1,1,Monastir,Irrigated,5.2,5778
+Valladolid,26,1,1,Nilo,Irrigated,6.12,6800
+Valladolid,27,1,1,Nobilis,Irrigated,6.28,6978
+Valladolid,28,1,1,Odisseo,Irrigated,5.29,5878
+Valladolid,29,1,1,Don Sebastian,Irrigated,4.2,4667
+Valladolid,30,1,1,Ottaviano,Irrigated,5.33,5922
+Valladolid,31,1,1,Ovidio,Irrigated,5.21,5789
+Valladolid,32,1,1,Semidou,Irrigated,5.97,6633
+Valladolid,33,2,1,Trimulato,Irrigated,5.04,5600
+Valladolid,34,2,1,RAGT Voilur,Irrigated,6.255,6950
+Valladolid,35,2,1,Wintergold,Irrigated,6.38,7089
+Valladolid,36,2,1,LG Ysatis,Irrigated,5.41,6011
+Valladolid,37,2,1,Avispa,Irrigated,5.84,6489
+Valladolid,38,2,1,Aneto,Irrigated,6.79,7544
+Valladolid,39,2,1,Teodorico,Irrigated,5.2,5778
+Valladolid,40,2,1,Duralis,Irrigated,5.68,6311
+Valladolid,41,2,1,Makrodur,Irrigated,6.6,7333
+Valladolid,42,2,1,Duramonte,Irrigated,7.21,8011
+Valladolid,43,2,1,Don Cristobal,Irrigated,4.9,5444
+Valladolid,44,2,1,Don Ortega,Irrigated,4.005,4450
+Valladolid,45,2,1,Carpio,Irrigated,3.8,4222
+Aranjuez,46,2,1,Don Valentin,Rainfed,3.28,3644
+Aranjuez,113,4,2,Don Valentin,Rainfed,NA,NA
+Valladolid,48,2,1,LG Fructis,Irrigated,4.65,5167
+Valladolid,49,2,1,LG Indianapolis,Irrigated,4.78,5311
+Valladolid,50,2,1,LG Avensis,Irrigated,6.4,7111
+Valladolid,51,2,1,RGT Esplendor,Irrigated,6.31,7011
+Valladolid,52,2,1,LG Confianza,Irrigated,5.58,6200
+Valladolid,53,2,1,LG Origen,Irrigated,6.78,7533
+Valladolid,54,2,1,LGDE15-1151-B ( LG Quovadis),Irrigated,5.6,6222
+Valladolid,55,2,1,LG Anubis,Irrigated,6.3,7000
+Valladolid,56,2,1,Omnis,Irrigated,6.18,6867
+Valladolid,57,2,1,Aceres,Irrigated,6.5,7222
+Valladolid,58,2,1,Coriolis,Irrigated,6.7,7444
+Valladolid,59,2,1,RGT Reinur,Irrigated,5.855,6506
+Valladolid,60,2,1,RGT Beticur,Irrigated,5.635,6261
+Valladolid,61,2,1,RGT Fernandur,Irrigated,6.44,7156
+Valladolid,62,2,1,RGT Tacodur,Irrigated,4.9,5444
+Valladolid,63,2,1,RGT Rumbadur,Irrigated,8.7,9667
+Valladolid,64,2,1,RGT Partitur,Irrigated,6.8,7556
+Valladolid,65,3,2,Nobilis,Irrigated,7.005,7783
+Valladolid,66,3,2,Semidou,Irrigated,6.665,7406
+Valladolid,67,3,2,Canaillou (17215),Irrigated,7.85,8722
+Valladolid,68,3,2,LG Origen,Irrigated,7.42,8244
+Valladolid,69,3,2,Monastir,Irrigated,6.48,7200
+Valladolid,70,3,2,Don Ricardo,Irrigated,6.255,6950
+Valladolid,71,3,2,Ottaviano,Irrigated,7.285,8094
+Valladolid,72,3,2,Teodorico,Irrigated,6.945,7717
+Valladolid,73,3,2,Antalis,Irrigated,6.24,6933
+Valladolid,74,3,2,Duralis,Irrigated,7.82,8689
+Valladolid,75,3,2,Aventadur,Irrigated,5.535,6150
+Valladolid,76,3,2,Wintergold,Irrigated,6.595,7328
+Valladolid,77,3,2,Asif,Irrigated,5.715,6350
+Valladolid,78,3,2,Nilo,Irrigated,7.39,8211
+Aranjuez,188,6,3,Don Valentin,Rainfed,3.54,3933
+Valladolid,80,3,2,RGT Beticur,Irrigated,5.115,5683
+Valladolid,81,3,2,RGT Rumbadur,Irrigated,5.62,6244
+Valladolid,82,3,2,Casteldoux,Irrigated,6.4,7111
+Valladolid,83,3,2,Don Sebastian,Irrigated,4.425,4917
+Valladolid,84,3,2,Aneto,Irrigated,7.24,8044
+Valladolid,85,3,2,LG Avensis,Irrigated,6.65,7389
+Valladolid,86,3,2,Omnis,Irrigated,5.715,6350
+Valladolid,87,3,2,Coriolis,Irrigated,6.405,7117
+Valladolid,88,3,2,RGT Fernandur,Irrigated,5.96,6622
+Valladolid,89,3,2,Egeo,Irrigated,5.45,6056
+Valladolid,90,3,2,LG Confianza,Irrigated,5.47,6078
+Valladolid,91,3,2,Duramonte,Irrigated,6.61,7344
+Valladolid,92,3,2,Fdn 15 Dw 872,Irrigated,6.465,7183
+Valladolid,93,3,2,Gvati,Irrigated,4.95,5500
+Valladolid,94,3,2,LG Fructis,Irrigated,4.75,5278
+Valladolid,95,3,2,Calero,Irrigated,5.62,6244
+Valladolid,96,3,2,Massimo Meridio,Irrigated,4.8,5333
+Valladolid,97,4,2,Aceres,Irrigated,5.64,6267
+Valladolid,46,2,1,Don Valentin,Rainfed,5.3,5889
+Valladolid,99,4,2,Amancio,Irrigated,7.875,8750
+Valladolid,100,4,2,Don Cristobal,Irrigated,6.21,6900
+Valladolid,101,4,2,Carpio,Irrigated,4.03,4478
+Valladolid,102,4,2,Athorix,Irrigated,6.405,7117
+Valladolid,103,4,2,Leondur,Irrigated,4.59,5100
+Valladolid,104,4,2,RGT Partitur,Irrigated,7.075,7861
+Valladolid,105,4,2,RGT Esplendor,Irrigated,5.63,6256
+Valladolid,106,4,2,Emilio Lepido,Irrigated,6.35,7056
+Valladolid,107,4,2,RGT Reinur,Irrigated,6.245,6939
+Valladolid,108,4,2,Don Norman,Irrigated,5.28,5867
+Valladolid,109,4,2,Anvergur,Irrigated,7,7778
+Valladolid,110,4,2,RGT Tacodur,Irrigated,5.56,6178
+Valladolid,111,4,2,LGDE15-1151-B ( LG Quovadis),Irrigated,4.34,4822
+Valladolid,112,4,2,Achille,Irrigated,5.81,6456
+Valladolid,113,4,2,RAGT Voilur,Irrigated,7.24,8044
+Valladolid,114,4,2,Avispa,Irrigated,6.87,7633
+Valladolid,115,4,2,Don Ortega,Irrigated,4.92,5467
+Valladolid,116,4,2,LG Hipnosis,Irrigated,7.115,7906
+Valladolid,117,4,2,Ovidio,Irrigated,6.835,7594
+Valladolid,118,4,2,Fuego,Irrigated,5.69,6322
+Valladolid,119,4,2,Hard_Amber,Irrigated,5.84,6489
+Valladolid,96,3,2,Don Valentin,Rainfed,3.25,3611
+Valladolid,121,4,2,LG Anubis,Irrigated,7.28,8089
+Valladolid,122,4,2,Trimulato,Irrigated,6.74,7489
+Valladolid,123,4,2,Makrodur,Irrigated,7.3,8111
+Valladolid,124,4,2,LG Davis,Irrigated,6.99,7767
+Valladolid,125,4,2,Odisseo,Irrigated,7.32,8133
+Valladolid,126,4,2,LG Indianapolis,Irrigated,6.6,7333
+Valladolid,127,4,2,LG Ysatis,Irrigated,6.67,7411
+Valladolid,128,4,2,Eliav,Irrigated,6.81,7567
+Valladolid,129,5,3,Duralis,Irrigated,7.97,8856
+Valladolid,130,5,3,Massimo Meridio,Irrigated,6.91,7678
+Valladolid,131,5,3,Nilo,Irrigated,7.82,8689
+Valladolid,132,5,3,Emilio Lepido,Irrigated,7.37,8189
+Valladolid,133,5,3,Wintergold,Irrigated,7.31,8122
+Valladolid,134,5,3,Fdn 15 Dw 872,Irrigated,7.84,8711
+Valladolid,135,5,3,Fuego,Irrigated,6.55,7278
+Valladolid,136,5,3,LG Fructis,Irrigated,6.38,7089
+Valladolid,137,5,3,Makrodur,Irrigated,7.56,8400
+Valladolid,138,5,3,Trimulato,Irrigated,7.11,7900
+Valladolid,139,5,3,Carpio,Irrigated,4.83,5367
+Valladolid,140,5,3,Odisseo,Irrigated,7.19,7989
+Valladolid,141,5,3,Duramonte,Irrigated,8.79,9767
+Valladolid,142,5,3,Semidou,Irrigated,6.62,7356
+Valladolid,143,5,3,Gvati,Irrigated,5.93,6589
+Valladolid,144,5,3,RGT Fernandur,Irrigated,6.03,6700
+Valladolid,145,5,3,LG Ysatis,Irrigated,5.87,6522
+Valladolid,146,5,3,LG Davis,Irrigated,5.565,6183
+Valladolid,147,5,3,Egeo,Irrigated,6.13,6811
+Valladolid,148,5,3,LG Confianza,Irrigated,5.88,6533
+Valladolid,149,5,3,Asif,Irrigated,5.7,6333
+Valladolid,150,5,3,Nobilis,Irrigated,7.73,8589
+Valladolid,151,5,3,RAGT Voilur,Irrigated,6.46,7178
+Valladolid,152,5,3,Avispa,Irrigated,5.64,6267
+Valladolid,153,5,3,RGT Tacodur,Irrigated,4.61,5122
+Valladolid,154,5,3,Omnis,Irrigated,5.57,6189
+Valladolid,155,5,3,RGT Beticur,Irrigated,5.395,5994
+Valladolid,156,5,3,Hard_Amber,Irrigated,5.12,5689
+Valladolid,157,5,3,Casteldoux,Irrigated,6.56,7289
+Valladolid,158,5,3,Don Ortega,Irrigated,4.21,4678
+Valladolid,159,5,3,LG Origen,Irrigated,6.105,6783
+Valladolid,160,5,3,Don Norman,Irrigated,4.78,5311
+Valladolid,161,6,3,LG Anubis,Irrigated,5.42,6022
+Valladolid,162,6,3,LG Hipnosis,Irrigated,6.4,7111
+Valladolid,163,6,3,Aventadur,Irrigated,5.05,5611
+Valladolid,137,5,3,Don Valentin,Rainfed,4.67,5189
+Valladolid,165,6,3,Coriolis,Irrigated,6.78,7533
+Valladolid,166,6,3,Antalis,Irrigated,5.6,6222
+Valladolid,167,6,3,RGT Reinur,Irrigated,6.15,6833
+Valladolid,168,6,3,Eliav,Irrigated,5.41,6011
+Valladolid,169,6,3,Canaillou (17215),Irrigated,6.69,7433
+Valladolid,170,6,3,Ovidio,Irrigated,6.2,6889
+Valladolid,171,6,3,LG Indianapolis,Irrigated,6.16,6844
+Valladolid,172,6,3,Ottaviano,Irrigated,7.54,8378
+Valladolid,173,6,3,Amancio,Irrigated,8.18,9089
+Valladolid,174,6,3,Calero,Irrigated,7.53,8367
+Valladolid,175,6,3,RGT Partitur,Irrigated,8.16,9067
+Valladolid,176,6,3,Aceres,Irrigated,6.55,7278
+Valladolid,177,6,3,Teodorico,Irrigated,6.46,7178
+Valladolid,178,6,3,RGT Rumbadur,Irrigated,7.91,8789
+Valladolid,179,6,3,Athorix,Irrigated,7.64,8489
+Valladolid,180,6,3,Monastir,Irrigated,5.99,6656
+Valladolid,181,6,3,Anvergur,Irrigated,7.25,8056
+Valladolid,182,6,3,Don Ricardo,Irrigated,6.23,6922
+Valladolid,183,6,3,Don Sebastian,Irrigated,5.65,6278
+Valladolid,184,6,3,Achille,Irrigated,6.85,7611
+Valladolid,185,6,3,Leondur,Irrigated,5.61,6233
+Valladolid,186,6,3,LGDE15-1151-B ( LG Quovadis),Irrigated,4.79,5322
+Valladolid,187,6,3,LG Avensis,Irrigated,7.86,8733
+Valladolid,195,7,4,Don Valentin,Rainfed,NA,NA
+Valladolid,189,6,3,Don Cristobal,Irrigated,6.58,7311
+Valladolid,46,2,1,Don Valentin,Irrigated,5.39,5989
+Valladolid,191,6,3,Aneto,Irrigated,7.89,8767
+Valladolid,192,6,3,RGT Esplendor,Irrigated,6.37,7078
+Valladolid,193,7,4,Duramonte,Irrigated,7.725,8583
+Valladolid,194,7,4,Carpio,Irrigated,4.72,5244
+Valladolid,195,7,4,Don Norman,Irrigated,5.78,6422
+Valladolid,196,7,4,Avispa,Irrigated,7.57,8411
+Valladolid,197,7,4,LG Hipnosis,Irrigated,6.61,7344
+Valladolid,198,7,4,Omnis,Irrigated,6.295,6994
+Valladolid,199,7,4,Egeo,Irrigated,6.245,6939
+Valladolid,200,7,4,Don Sebastian,Irrigated,4.655,5172
+Valladolid,201,7,4,RGT Reinur,Irrigated,6.965,7739
+Valladolid,202,7,4,Ottaviano,Irrigated,6.43,7144
+Valladolid,203,7,4,Aceres,Irrigated,6.125,6806
+Valladolid,204,7,4,LG Ysatis,Irrigated,6.54,7267
+Valladolid,205,7,4,RGT Tacodur,Irrigated,5.65,6278
+Valladolid,206,7,4,Massimo Meridio,Irrigated,5.995,6661
+Valladolid,207,7,4,Coriolis,Irrigated,6.965,7739
+Valladolid,208,7,4,Nobilis,Irrigated,7.84,8711
+Valladolid,209,7,4,RGT Beticur,Irrigated,5.48,6089
+Valladolid,210,7,4,Odisseo,Irrigated,6.21,6900
+Valladolid,211,7,4,LG Anubis,Irrigated,7,7778
+Valladolid,212,7,4,Nilo,Irrigated,6.98,7756
+Valladolid,213,7,4,LG Origen,Irrigated,6.565,7294
+Valladolid,214,7,4,Monastir,Irrigated,6.22,6911
+Valladolid,215,7,4,Aventadur,Irrigated,5.195,5772
+Valladolid,216,7,4,Duralis,Irrigated,6.99,7767
+Valladolid,217,7,4,RGT Rumbadur,Irrigated,7.01,7789
+Valladolid,218,7,4,Makrodur,Irrigated,7.15,7944
+Valladolid,219,7,4,RGT Fernandur,Irrigated,6.05,6722
+Valladolid,220,7,4,Don Ricardo,Irrigated,4.17,4633
+Valladolid,221,7,4,LG Davis,Irrigated,5.56,6178
+Valladolid,79,3,2,Don Valentin,Irrigated,5.49,6100
+Valladolid,223,7,4,Emilio Lepido,Irrigated,5.68,6311
+Valladolid,224,7,4,Asif,Irrigated,4.49,4989
+Valladolid,225,8,4,LG Avensis,Irrigated,5.8,6444
+Valladolid,226,8,4,Fuego,Irrigated,5.225,5806
+Valladolid,227,8,4,RGT Esplendor,Irrigated,5.21,5789
+Valladolid,228,8,4,Anvergur,Irrigated,6.62,7356
+Valladolid,229,8,4,LGDE15-1151-B ( LG Quovadis),Irrigated,4.125,4583
+Valladolid,230,8,4,Canaillou (17215),Irrigated,5.39,5989
+Valladolid,231,8,4,LG Indianapolis,Irrigated,4.665,5183
+Valladolid,232,8,4,Achille,Irrigated,5.66,6289
+Valladolid,233,8,4,Trimulato,Irrigated,5.135,5706
+Valladolid,234,8,4,Teodorico,Irrigated,5.89,6544
+Valladolid,235,8,4,Antalis,Irrigated,4.94,5489
+Valladolid,236,8,4,Eliav,Irrigated,5.06,5622
+Valladolid,237,8,4,Semidou,Irrigated,5.33,5922
+Valladolid,238,8,4,Fdn 15 Dw 872,Irrigated,7.68,8533
+Valladolid,239,8,4,Athorix,Irrigated,5.86,6511
+Valladolid,240,8,4,Wintergold,Irrigated,5.65,6278
+Valladolid,241,8,4,Leondur,Irrigated,4.19,4656
+Valladolid,242,8,4,Calero,Irrigated,5.875,6528
+Valladolid,243,8,4,Don Cristobal,Irrigated,6.295,6994
+Valladolid,188,6,3,Don Valentin,Irrigated,6.05,6722
+Valladolid,245,8,4,LG Fructis,Irrigated,5.335,5928
+Valladolid,246,8,4,Amancio,Irrigated,6.455,7172
+Valladolid,247,8,4,RGT Partitur,Irrigated,7.755,8617
+Valladolid,248,8,4,Aneto,Irrigated,6.855,7617
+Valladolid,249,8,4,RAGT Voilur,Irrigated,5.77,6411
+Valladolid,250,8,4,Hard_Amber,Irrigated,4.975,5528
+Valladolid,251,8,4,Don Ortega,Irrigated,4.03,4478
+Valladolid,252,8,4,LG Confianza,Irrigated,5.255,5839
+Valladolid,253,8,4,Ovidio,Irrigated,6.395,7106
+Valladolid,254,8,4,Casteldoux,Irrigated,7.005,7783
+Valladolid,222,7,4,Don Valentin,Irrigated,5.475,6083
+Valladolid,256,8,4,Gvati,Irrigated,5.48,6089
